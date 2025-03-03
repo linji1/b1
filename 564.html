@@ -56,12 +56,12 @@
 <title>关于2019年度雷州市中小学教师教学论文评选结果的通报&nbsp;|&nbsp;老林笔记</title>
 <meta name="keywords" content="">
 <meta name="description" content="第 22 张证书：经市教育局论文评审小组公平公正评审，评出一等奖67篇，二等奖138篇，三等奖159篇，共计364篇（其中，中学部分一等奖39篇，二等奖85篇，三等奖90篇：小学部分一等奖28篇，二等奖53篇，三等奖69篇）。现将评审结果予以通报(见附件)">
-<link href="assets/qblog/style.css?v=4.0" rel="stylesheet" type="text/css">
+<link href="assets/qblog/style.css" rel="stylesheet" type="text/css">
 <link href="assets/js/highlightjs/dark.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" language="javascript" src="assets/js/jquery.min.js"></script>
 <link rel="stylesheet" href="assets/qblog/fontawesome.min.css">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-<script src="assets/js/readmore.js" type="text/javascript"></script>
+<script defer="" src="assets/js/readmore.js" type="text/javascript"></script>
 <!-- fancyBox 5 -->
 <link rel="stylesheet" href="assets/js/fancybox/fancybox.min.css" media="all" onload="this.media='all'">
 <script src="assets/js/fancybox/fancybox.umd.min.js"></script>
@@ -164,7 +164,7 @@ $(document).ready(function() {
     <div class="dialog-mask1" onclick="closeLogin1()"></div>
     <div class="dialog-plane1">
         <h2>管理员登陆</h2>
-        <form class="search-form1" action="/index.php?act=dologin" method="post">
+        <form class="search-form1" action="index.php?act=dologin" method="post">
             <div class="search-form-input-plane1">
                 <input type="password" class="search-keyword1" name="pass" autocomplete="on" placeholder="输入密码..." required="required" value="">
 	   <input name="l" value="" type="hidden">
@@ -184,7 +184,7 @@ $(document).ready(function() {
     <div class="dialog-mask" onclick="closeSearch()"></div>
     <div class="dialog-plane">
         <h2>搜索内容</h2>
-        <form class="search-form" action="/index.php" method="get" role="search">
+        <form class="search-form" action="https://linji.cn/index.php" method="get" role="search">
             <div class="search-form-input-plane">
                 <input type="text" class="search-keyword" name="s" autocomplete="on" placeholder="搜索内容" required="required" value="">
             </div>
@@ -197,19 +197,38 @@ $(document).ready(function() {
     </div>
 </div>
 <!-- 搜索框结束 -->
-<div id="menu_toggle1" onclick="openLogin1()"><i style="color: #888;font-size: 20px;position: absolute;right: 20px;top: 16px;z-index: 9999;height: 50px;font-weight: 300;cursor: pointer;" class="fa fa-user"></i></div><div class="navbar-wrap">
+<div class="dropdown">
+<span class="dropbtn" onclick="openDropdown()"><i style="color: #888;font-size: 20px;position: absolute;right: 20px;top: 16px;z-index: 9999;height: 50px;font-weight: 300;cursor: pointer;" class="fa fa-user"></i></span>
+<div class="dialog-Dropdown-plane">
+    <div class="dialog-Dropdown-mask" onclick="closeDropdown()"></div>
+  <div class="dropdown-content">
+    <a href="comment.html"><i style="font-size: 20px;padding-right: 5px;" class="fa fa-comment"></i> 文章评论</a>
+    <a href="https://jz.linji.cn"><i style="font-size:20px;padding-right: 5px;" class="fa">&#xf157</i> 资金明细</a>
+</div>
+</div>
+</div>
+<div class="navbar-wrap">
   <div class="box-m">
     <div class="logo">
-      <h2 id="title"><a href="index.htm">老林笔记</a></h2>   
+      <h2 id="title">老林笔记</h2>   
     </div>	   
-      <ul id="nav" class="collapse"> 
-		<li><a href="list-0.html">生活随笔</a></li><li><a href="list-1.html">荣誉证书</a></li><li><a href="list-2.html">继续教育</a></li><li><a href="list-3.html">小学教育</a></li><li><a href="list-4.html">小学校历</a></li><li><a href="list-5.html">毕业记忆</a></li><li><a href="list-6.html">相关通知</a></li><li><a href="list-7.html">信息科技</a></li><li><a href="list-8.html">闲说</a></li>
-<li><a href="https://m.linji.cn/" target="_blank">朋友圈</a></li>
-<li><a href="comment.html">评论</a></li>
-<li><a href="archives.html">归档</a></li>
-<li><a href="https://p.linji.cn" target="_blank">导航</a></li>
-<li><a href="file/index.htm" target="_blank">网盘</a></li>
-<li><a href="https://jz.linji.cn/" target="_blank">记帐</a></li><li><a href="javascript:void(0);" onclick="openLogin1()">登录</a></li>      </ul>   
+        <ul id="nav" class="collapse">
+          <li><a href="/b0/list-0.html">生活随笔</a></li>
+          <li><a href="/b1/list-1.html" class="on">荣誉证书</a></li>
+          <li><a href="/b2/list-2.html">继续教育</a></li>
+          <li><a href="/b3/list-3.html">小学教育</a></li>
+          <li><a href="/b4/list-4.html">小学校历</a></li>
+          <li><a href="/b5/list-5.html">毕业记忆</a></li>
+          <li><a href="/b6/list-6.html">相关通知</a></li>
+          <li><a href="/b7/list-7.html">信息科技</a></li>
+          <li><a href="/b8/list-8.html">闲说</a></li>
+          <li><a href="https://m.linji.cn/" target="_blank">朋友圈</a></li>
+          <li><a href="comment.html">评论</a></li>
+          <li><a href="archives.html">归档</a></li>
+          <li><a href="https://p.linji.cn" target="_blank">导航</a></li>
+          <li><a href="https://linji.cn/file/" target="_blank">网盘</a></li>
+          <li><a href="https://jz.linji.cn/" target="_blank">记帐</a></li>
+        </ul>
       </div>
 </div>
 <div class="other-wrap collapse">
@@ -328,7 +347,7 @@ document.body.addEventListener('input', POWERMODE);
             // -->
         </script>
         <!-- 距离 63 岁 --></div>
-	   <form method="get" class="search-form" action="index.php"> <input class="search-text" name="s" autocomplete="on" placeholder="输入关键词搜索..." required="required" type="text" value=""> <button class="search-submit" alt="搜索" type="submit">搜索</button></form>
+	   <form method="get" class="search-form" action="https://linji.cn/index.php"> <input class="search-text" name="s" autocomplete="on" placeholder="输入关键词搜索..." required="required" type="text" value=""> <button class="search-submit" alt="搜索" type="submit">搜索</button></form>
 	   </div>   
 </div>
 </div>
@@ -554,7 +573,7 @@ document.body.addEventListener('input', POWERMODE);
   <div class="breadcrumb" style="margin-top: -5px;"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home" style="width: 10px;   width: 14px;height: 14px;vertical-align: -2px;
 "><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg><a href="index.htm" style="padding-left: 5px;color: #7d8c8e;">首页</a>
 <span>/</span><a href="list-1.html" style="color: #7d8c8e;">荣誉证书</a><span>/</span>正文</div>
-<audio id="audioPlayer" controls="" preload="" style="max-width: 50%;opacity: .4;float: right;height: 24px;margin-top: -6px;" title="收听本文" src="https://dict.youdao.com/dictvoice?le=zh&audio=关于2019年度雷州市中小学教师教学论文评选结果的通报。经市教育局论文评审小组公平公正评审，评出一等奖67篇，二等奖138篇，三等奖159篇，共计364篇其中，中学部分一等奖39篇，二等奖85篇，三等奖90篇小学部分一等奖28篇，二等奖53篇，三等奖69篇。现将评审结果予以通报见附件2019年度雷州市中小学教师教学论文评选结果序号参 评 论 文作者姓名作者单位评奖等级学科1浅谈农村小学数学教学生活化林 继杨家中心小学一等奖数学2巧设教法，让古诗词教学妙趣横生符雪莲杨家中心小学一等奖语文3小学英语教学必须以学生为本陈彩芬杨家中心小学一等奖英语4优化教学手段，提高语文课堂有效性刘 瑾杨家中心小学二">
+<audio id="audioPlayer" controls="" preload="" style="max-width: 50%;opacity: .4;float: right;height: 24px;margin-top: -6px;" title="收听本文" src="https://dict.youdao.com/dictvoice?le=zh&audio=关于2019年度雷州市中小学教师教学论文评选结果的通报。经市教育局论文评审小组公平公正评审，评出一等奖67篇，二等奖138篇，三等奖159篇，共计364篇其中，中学部分一等奖39篇，二等奖85篇，三等奖90篇小学部分一等奖28篇，二等奖53篇，三等奖69篇。现将评审结果予以通报">
   您的浏览器不支持 audio 元素。
 </audio>
 <span id="translate" style="border: 0px;cursor: pointer;float: right;color: #7d8c8e;font-size: 12px;margin-top: -5px;"></span>
@@ -562,7 +581,7 @@ document.body.addEventListener('input', POWERMODE);
     <script>
         const audioPlayer = document.getElementById('audioPlayer');
         const audioFiles = [
-            'https://dict.youdao.com/dictvoice?le=zh&audio=关于2019年度雷州市中小学教师教学论文评选结果的通报。经市教育局论文评审小组公平公正评审，评出一等奖67篇，二等奖138篇，三等奖159篇，共计364篇其中，中学部分一等奖39篇，二等奖85篇，三等奖90篇小学部分一等奖28篇，二等奖53篇，三等奖69篇。现将评审结果予以通报见附件2019年度雷州市中小学教师教学论文评选结果序号参 评 论 文作者姓名作者单位评奖等级学科1浅谈农村小学数学教学生活化林 继杨家中心小学一等奖数学2巧设教法，让古诗词教学妙趣横生符雪莲杨家中心小学一等奖语文3小学英语教学必须以学生为本陈彩芬杨家中心小学一等奖英语4优化教学手段，提高语文课堂有效性刘 瑾杨家中心小学二','https://dict.youdao.com/dictvoice?le=zh&audio=等奖语文5多媒体在语文教学的运用何祥福杨家西汀小学二等奖语文6如何让学生爱学，乐学，会学数学李小凤杨家中心小学二等奖数学7试论提高农村小学语文课堂教学效率的策略与方法刘兴文杨家宅湾小学三等奖语文8浅谈如何提高学生的课堂参与度王汝清杨家中心小学三等奖数学9如何提高小学生数学计算能力陈科锦杨家中心小学三等奖数学10提高学生英语课堂参与度初探莫春美杨家中心小学三等奖英语11培养听的习惯，创设说的情境黄华并杨家中心小学三等奖英语 gallery1 margin autogallery1 galleryitem float leftmargintop 10pxtextalign centerwidth ','https://dict.youdao.com/dictvoice?le=zh&audio=50gallery1 img border 2px solid cfcfcfgallery1 gallerycaption marginleft 0',        ];
+            'https://dict.youdao.com/dictvoice?le=zh&audio=关于2019年度雷州市中小学教师教学论文评选结果的通报。经市教育局论文评审小组公平公正评审，评出一等奖67篇，二等奖138篇，三等奖159篇，共计364篇其中，中学部分一等奖39篇，二等奖85篇，三等奖90篇小学部分一等奖28篇，二等奖53篇，三等奖69篇。现将评审结果予以通报',        ];
         let currentTrack = 0;
 
         // 点击播放按钮时开始播放
@@ -602,7 +621,7 @@ document.body.addEventListener('input', POWERMODE);
 <div id="article">
 <div id="printview">
 <h1>关于2019年度雷州市中小学教师教学论文评选结果的通报</h1><div class="text">
-经市教育局论文评审小组公平公正评审，评出一等奖67篇，二等奖138篇，三等奖159篇，共计364篇（其中，中学部分一等奖39篇，二等奖85篇，三等奖90篇：小学部分<a href="assets/file/2020/03/2019-386.rar" target="_blank"><font color="#000000">一等奖28篇</font></a>，二等奖53篇，三等奖69篇）。现将评审结果予以通报(<a href="pdf/web/viewer-3.html?file=/assets/file/2020/03/2019-386.pdf" target="_blank">见附件</a>)
+经市教育局论文评审小组公平公正评审，评出一等奖67篇，二等奖138篇，三等奖159篇，共计364篇（其中，中学部分一等奖39篇，二等奖85篇，三等奖90篇：小学部分<a href="assets/file/2020/03/2019-386.rar" target="_blank"><font color="#000000">一等奖28篇</font></a>，二等奖53篇，三等奖69篇）。现将评审结果予以通报(<a assets/file/2020/03/2019-386.pdf"="" target="_blank">见附件</a>)
 
 <a href="assets/file/2020/03/b_212235_275681648.jpg" data-fancybox="gallery" data-caption=""><img src="assets/file/2020/03/b_212235_275681648.jpg" style="max-width:100%;"></a>
 <center><strong style="font-size: 28px;">2019年度雷州市中小学教师教学论文评选结果</strong></center>
@@ -891,7 +910,7 @@ document.body.addEventListener('input', POWERMODE);
           <div class="read_more_mask"></div>
           <a class="read_more_btn" target="_self">阅读全文 <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 18px; color: #ca0c16;vertical-align:middle;"></i></a>
       </div>
-<p class="time clb">荣誉证书 2020-03-03 21:05:25 通过 网页 <i class="iconfont icon-view"></i> 浏览(4088) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+<p class="time clb">荣誉证书 2020-03-03 21:05:25 通过 网页 <i class="iconfont icon-view"></i> 浏览(4092) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div></div>  
 <!-- 上一篇 下一篇开始 -->
