@@ -1,0 +1,2220 @@
+Uri: http://b/
+File Name: C:\Downloaded Web Sites\b\index.htm
+Content Type: text/html
+
+Uri: http://b/1048.html
+File Name: C:\Downloaded Web Sites\b\1048.html
+Content Type: text/html
+
+Uri: http://b/376.html
+File Name: C:\Downloaded Web Sites\b\376.html
+Content Type: text/html
+
+Uri: http://b/486.html
+File Name: C:\Downloaded Web Sites\b\486.html
+Content Type: text/html
+
+Uri: http://b/491.html
+File Name: C:\Downloaded Web Sites\b\491.html
+Content Type: text/html
+
+Uri: http://b/492.html
+File Name: C:\Downloaded Web Sites\b\492.html
+Content Type: text/html
+
+Uri: http://b/493.html
+File Name: C:\Downloaded Web Sites\b\493.html
+Content Type: text/html
+
+Uri: http://b/494.html
+File Name: C:\Downloaded Web Sites\b\494.html
+Content Type: text/html
+
+Uri: http://b/495.html
+File Name: C:\Downloaded Web Sites\b\495.html
+Content Type: text/html
+
+Uri: http://b/497.html
+File Name: C:\Downloaded Web Sites\b\497.html
+Content Type: text/html
+
+Uri: http://b/498.html
+File Name: C:\Downloaded Web Sites\b\498.html
+Content Type: text/html
+
+Uri: http://b/499.html
+File Name: C:\Downloaded Web Sites\b\499.html
+Content Type: text/html
+
+Uri: http://b/500.html
+File Name: C:\Downloaded Web Sites\b\500.html
+Content Type: text/html
+
+Uri: http://b/501.html
+File Name: C:\Downloaded Web Sites\b\501.html
+Content Type: text/html
+
+Uri: http://b/502.html
+File Name: C:\Downloaded Web Sites\b\502.html
+Content Type: text/html
+
+Uri: http://b/503.html
+File Name: C:\Downloaded Web Sites\b\503.html
+Content Type: text/html
+
+Uri: http://b/504.html
+File Name: C:\Downloaded Web Sites\b\504.html
+Content Type: text/html
+
+Uri: http://b/505.html
+File Name: C:\Downloaded Web Sites\b\505.html
+Content Type: text/html
+
+Uri: http://b/506.html
+File Name: C:\Downloaded Web Sites\b\506.html
+Content Type: text/html
+
+Uri: http://b/507.html
+File Name: C:\Downloaded Web Sites\b\507.html
+Content Type: text/html
+
+Uri: http://b/508.html
+File Name: C:\Downloaded Web Sites\b\508.html
+Content Type: text/html
+
+Uri: http://b/509.html
+File Name: C:\Downloaded Web Sites\b\509.html
+Content Type: text/html
+
+Uri: http://b/510.html
+File Name: C:\Downloaded Web Sites\b\510.html
+Content Type: text/html
+
+Uri: http://b/511.html
+File Name: C:\Downloaded Web Sites\b\511.html
+Content Type: text/html
+
+Uri: http://b/512.html
+File Name: C:\Downloaded Web Sites\b\512.html
+Content Type: text/html
+
+Uri: http://b/513.html
+File Name: C:\Downloaded Web Sites\b\513.html
+Content Type: text/html
+
+Uri: http://b/514.html
+File Name: C:\Downloaded Web Sites\b\514.html
+Content Type: text/html
+
+Uri: http://b/515.html
+File Name: C:\Downloaded Web Sites\b\515.html
+Content Type: text/html
+
+Uri: http://b/516.html
+File Name: C:\Downloaded Web Sites\b\516.html
+Content Type: text/html
+
+Uri: http://b/517.html
+File Name: C:\Downloaded Web Sites\b\517.html
+Content Type: text/html
+
+Uri: http://b/564.html
+File Name: C:\Downloaded Web Sites\b\564.html
+Content Type: text/html
+
+Uri: http://b/631.html
+File Name: C:\Downloaded Web Sites\b\631.html
+Content Type: text/html
+
+Uri: http://b/708.html
+File Name: C:\Downloaded Web Sites\b\708.html
+Content Type: text/html
+
+Uri: http://b/710.html
+File Name: C:\Downloaded Web Sites\b\710.html
+Content Type: text/html
+
+Uri: http://b/817.html
+File Name: C:\Downloaded Web Sites\b\817.html
+Content Type: text/html
+
+Uri: http://b/935.html
+File Name: C:\Downloaded Web Sites\b\935.html
+Content Type: text/html
+
+Uri: http://b/985.html
+File Name: C:\Downloaded Web Sites\b\985.html
+Content Type: text/html
+
+Uri: http://b/archives.html
+File Name: C:\Downloaded Web Sites\b\archives.html
+Content Type: text/html
+
+Uri: http://b/assets/file/2020/02/b_101134_1004881075.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_101134_1004881075.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_101446_324086195.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_101446_324086195.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_102455_214369030.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_102455_214369030.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_112645_1372588923.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_112645_1372588923.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_113309_741121207.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_113309_741121207.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_113713_1561077706.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_113713_1561077706.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_114746_1267167323.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_114746_1267167323.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_115124_65778036.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_115124_65778036.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_115656_1888950275.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_115656_1888950275.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_120208_620232379.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_120208_620232379.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_120752_516500981.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_120752_516500981.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_121140_259778099.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_121140_259778099.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_121513_1623884636.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_121513_1623884636.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_122327_784399475.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_122327_784399475.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_122748_850391502.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_122748_850391502.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_123316_1185910712.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_123316_1185910712.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_123707_1444024926.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_123707_1444024926.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_124034_1698853289.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_124034_1698853289.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_124512_411435604.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_124512_411435604.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_124849_1373208386.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_124849_1373208386.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_125310_395318042.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_125310_395318042.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_125734_1076079627.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_125734_1076079627.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_130232_237626732.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_130232_237626732.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_024837_1997016060.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_024837_1997016060.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_101134_1004881075.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_101134_1004881075.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_101446_324086195.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_101446_324086195.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_102455_214369030.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_102455_214369030.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_112645_1372588923.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_112645_1372588923.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_113309_741121207.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_113309_741121207.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_113713_1561077706.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_113713_1561077706.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_114746_1267167323.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_114746_1267167323.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_115124_65778036.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_115124_65778036.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_115656_1888950275.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_115656_1888950275.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_120208_620232379.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_120208_620232379.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_120752_516500981.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_120752_516500981.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_121140_259778099.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_121140_259778099.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_121513_1623884636.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_121513_1623884636.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_122327_784399475.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_122327_784399475.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_122748_850391502.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_122748_850391502.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_123316_1185910712.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_123316_1185910712.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_123707_1444024926.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_123707_1444024926.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_124034_1698853289.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_124034_1698853289.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_124512_411435604.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_124512_411435604.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_124849_1373208386.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_124849_1373208386.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_125310_395318042.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_125310_395318042.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_125734_1076079627.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_125734_1076079627.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_130232_237626732.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_130232_237626732.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/03/2019-386.rar
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\03\2019-386.rar
+Content Type: application/x-rar-compressed
+
+Uri: http://b/assets/file/2020/03/b_205711_539945086.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\03\b_205711_539945086.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/03/b_205726_2141659781.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\03\b_205726_2141659781.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/03/b_212235_275681648.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\03\b_212235_275681648.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/03/s_205711_539945086.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\03\s_205711_539945086.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2021/02/2021022101.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\02\2021022101.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/04/s_115716_921038280.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\04\s_115716_921038280.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2021/12/s_104248_695523864.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\12\s_104248_695523864.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2022/03/202203301.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\03\202203301.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/03/s_110931_1789455414.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\03\s_110931_1789455414.jpg.html
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2022/05/2022052401.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\2022052401.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/05/2022052402.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\2022052402.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/05/2022052801.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\2022052801.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/05/s_014450_1444148297.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\s_014450_1444148297.png
+Content Type: image/png
+
+Uri: http://b/assets/file/2022/05/s_014642_2138765427.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\s_014642_2138765427.png
+Content Type: image/png
+
+Uri: http://b/assets/file/2023/02/2023020101.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\02\2023020101.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/02/2023020102.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\02\2023020102.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/02/2023020103.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\02\2023020103.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/03/2023032901.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\03\2023032901.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/03/s_134038_1390174646.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\03\s_134038_1390174646.png
+Content Type: image/png
+
+Uri: http://b/assets/file/2023/04/2023040701.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\04\2023040701.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/01/2024011501.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\01\2024011501.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/01/2024011502.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\01\2024011502.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/01/s_145236_1525515667.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\01\s_145236_1525515667.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2024/01/s_150130_804619398.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\01\s_150130_804619398.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2024/03/20240307124855.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\03\20240307124855.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2024/03/20240310.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\03\20240310.png
+Content Type: image/png
+
+Uri: http://b/assets/file/2024/06/2024062801.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\06\2024062801.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/06/2024062802.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\06\2024062802.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/06/2024062803.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\06\2024062803.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/06/s_103831_1483462900.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\06\s_103831_1483462900.png
+Content Type: image/png
+
+Uri: http://b/assets/file/2024/11/20241105.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\11\20241105.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/11/s_081052_954840813.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\11\s_081052_954840813.png
+Content Type: image/png
+
+Uri: http://b/assets/js/activity-power-mode.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\activity-power-mode.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/ajax.js
+File Name: C:\Downloaded Web Sites\b\assets\js\ajax.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/fancybox/fancybox.min.css
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\fancybox.min.css
+Content Type: text/css
+
+Uri: http://b/assets/js/fancybox/fancybox.umd.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\fancybox.umd.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/highlightjs/dark.css
+File Name: C:\Downloaded Web Sites\b\assets\js\highlightjs\dark.css
+Content Type: text/css
+
+Uri: http://b/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/layer.js
+File Name: C:\Downloaded Web Sites\b\assets\js\layer.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/readmore.js
+File Name: C:\Downloaded Web Sites\b\assets\js\readmore.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/translate.js
+File Name: C:\Downloaded Web Sites\b\assets\js\translate.js
+Content Type: application/javascript
+
+Uri: http://b/assets/qblog/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\b\assets\qblog\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://b/assets/qblog/images/iconfont.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/images/iconfont.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/images/iconfont.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/images/iconfont.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/images/iconfont.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/images/up.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\up.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/layui/font/iconfont.eot?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/layui/font/iconfont.svg?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/layui/font/iconfont.ttf?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/layui/font/iconfont.woff2?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/layui/font/iconfont.woff?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/layui/layui.js
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\layui.js
+Content Type: application/javascript
+
+Uri: http://b/assets/qblog/style.css?v=4.0
+File Name: C:\Downloaded Web Sites\b\assets\qblog\style.css
+Content Type: text/css
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://b/avatar.svg
+File Name: C:\Downloaded Web Sites\b\avatar.svg
+Content Type: image/svg+xml
+
+Uri: http://b/comment-1.html
+File Name: C:\Downloaded Web Sites\b\comment-1.html
+Content Type: text/html
+
+Uri: http://b/comment-2.html
+File Name: C:\Downloaded Web Sites\b\comment-2.html
+Content Type: text/html
+
+Uri: http://b/comment-3.html
+File Name: C:\Downloaded Web Sites\b\comment-3.html
+Content Type: text/html
+
+Uri: http://b/comment-4.html
+File Name: C:\Downloaded Web Sites\b\comment-4.html
+Content Type: text/html
+
+Uri: http://b/comment.html
+File Name: C:\Downloaded Web Sites\b\comment.html
+Content Type: text/html
+
+Uri: http://b/favicon.ico
+File Name: C:\Downloaded Web Sites\b\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://b/file/
+File Name: C:\Downloaded Web Sites\b\file\index.htm
+Content Type: text/html
+
+Uri: http://b/file/体测评分/易捷体测使用常见问题.docx
+File Name: C:\Downloaded Web Sites\b\file\体测评分\易捷体测使用常见问题.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://b/file/体测评分/易捷体测(2024-11-12).exe
+File Name: C:\Downloaded Web Sites\b\file\体测评分\易捷体测(2024-11-12).exe
+Content Type: application/octet-stream
+
+Uri: http://b/file/体测评分/标准/1.png
+File Name: C:\Downloaded Web Sites\b\file\体测评分\标准\1.png
+Content Type: image/png
+
+Uri: http://b/file/体测评分/标准/2.png
+File Name: C:\Downloaded Web Sites\b\file\体测评分\标准\2.png
+Content Type: image/png
+
+Uri: http://b/file/体测评分/标准/3.png
+File Name: C:\Downloaded Web Sites\b\file\体测评分\标准\3.png
+Content Type: image/png
+
+Uri: http://b/file/体测评分/标准/4.png
+File Name: C:\Downloaded Web Sites\b\file\体测评分\标准\4.png
+Content Type: image/png
+
+Uri: http://b/file/体测评分/标准/5.png
+File Name: C:\Downloaded Web Sites\b\file\体测评分\标准\5.png
+Content Type: image/png
+
+Uri: http://b/file/体测评分/标准/6.png
+File Name: C:\Downloaded Web Sites\b\file\体测评分\标准\6.png
+Content Type: image/png
+
+Uri: http://b/file/体测评分/视频/国家学生体质健康测试视力数据上报.mp4
+File Name: C:\Downloaded Web Sites\b\file\体测评分\视频\国家学生体质健康测试视力数据上报.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/体测评分/视频/小学体测评分系统使用教程.mp4
+File Name: C:\Downloaded Web Sites\b\file\体测评分\视频\小学体测评分系统使用教程.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/体测评分/视频/小学国家体质测试评分系统使用教程.mp4
+File Name: C:\Downloaded Web Sites\b\file\体测评分\视频\小学国家体质测试评分系统使用教程.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/体测评分/评分/初中体测算分表(修改：2024-11-22).xlsx
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\初中体测算分表(修改：2024-11-22).xlsx
+Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+Uri: http://b/file/体测评分/评分/小学体测算分表(修改：2024-10-26).xlsx
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\小学体测算分表(修改：2024-10-26).xlsx
+Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+Uri: http://b/file/体测评分/评分/小学体测算分表(修改：2024-11-21).xlsx
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\小学体测算分表(修改：2024-11-21).xlsx
+Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+Uri: http://b/file/体测评分/评分/高中体测算分表(修改：2024-11-22).xlsx
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\高中体测算分表(修改：2024-11-22).xlsx
+Content Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+Uri: http://b/file/体测评分/评分/1.小学一年级国家体测数据自动评分表.xls
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\1.小学一年级国家体测数据自动评分表.xls
+Content Type: application/vnd.ms-excel
+
+Uri: http://b/file/体测评分/评分/2.小学二年级国家体测数据自动评分表.xls
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\2.小学二年级国家体测数据自动评分表.xls
+Content Type: application/vnd.ms-excel
+
+Uri: http://b/file/体测评分/评分/3.小学三年级国家体测数据自动评分表.xls
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\3.小学三年级国家体测数据自动评分表.xls
+Content Type: application/vnd.ms-excel
+
+Uri: http://b/file/体测评分/评分/4.小学四年级国家体测数据自动评分表.xls
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\4.小学四年级国家体测数据自动评分表.xls
+Content Type: application/vnd.ms-excel
+
+Uri: http://b/file/体测评分/评分/5.小学五年级国家体测数据自动评分表.xls
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\5.小学五年级国家体测数据自动评分表.xls
+Content Type: application/vnd.ms-excel
+
+Uri: http://b/file/体测评分/评分/6.小学六年级国家体测数据自动评分表.xls
+File Name: C:\Downloaded Web Sites\b\file\体测评分\评分\6.小学六年级国家体测数据自动评分表.xls
+Content Type: application/vnd.ms-excel
+
+Uri: http://b/file/动漫数学/四级上册/01.认识万级和十万级的数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\01.认识万级和十万级的数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/02.认识亿级的数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\02.认识亿级的数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/03.大数的读法.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\03.大数的读法.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/04.大数的写法.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\04.大数的写法.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/05.大数的大小比较.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\05.大数的大小比较.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/06.近似数和四舍五入.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\06.近似数和四舍五入.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/07.自然数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\07.自然数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/08.十进制的起源.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\08.十进制的起源.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/09.线段、射线和直线.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\09.线段、射线和直线.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/10.相交与垂直.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\10.相交与垂直.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/11.平移与平行.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\11.平移与平行.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/12.旋转与角.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\12.旋转与角.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/13.角的度量（上）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\13.角的度量（上）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/14.角的度量（下）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\14.角的度量（下）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/15.利用三角板画角.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\15.利用三角板画角.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/16.列竖式计算之三位数乘两位数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\16.列竖式计算之三位数乘两位数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/17.估算之三位数乘两位数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\17.估算之三位数乘两位数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/18.神奇的计算工具.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\18.神奇的计算工具.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/19.有趣的算式（上）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\19.有趣的算式（上）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/20.有趣的算式（下）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\20.有趣的算式（下）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/21.四则混合运算的顺序.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\21.四则混合运算的顺序.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/22.加法交换律.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\22.加法交换律.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/23.乘法交换律.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\23.乘法交换律.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/24.加法结合律.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\24.加法结合律.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/25.乘法结合律.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\25.乘法结合律.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/26.乘法分配律.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\26.乘法分配律.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/27.描述简单的线路图.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\27.描述简单的线路图.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/28.用数对确定位置.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\28.用数对确定位置.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/29.平移与数对变化.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\29.平移与数对变化.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/30.列竖式计算之除数是整十数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\30.列竖式计算之除数是整十数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/31.列竖式计算之除数是两位数（上）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\31.列竖式计算之除数是两位数（上）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/32.列竖式计算之除数是两位数（下）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\32.列竖式计算之除数是两位数（下）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/33.商不变的规律.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\33.商不变的规律.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/34.路程、时间与速度.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\34.路程、时间与速度.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/35.单价的认识.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\35.单价的认识.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/36.单价、数量、总价的关系.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\36.单价、数量、总价的关系.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/37.生活中的负数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\37.生活中的负数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/38.正负数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\38.正负数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/39.编码.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\39.编码.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/40.计数之数线段.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\40.计数之数线段.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/41.不确定性.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\41.不确定性.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级上册/42.摸球游戏.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级上册\42.摸球游戏.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/01.小数的意义（一）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\01.小数的意义（一）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/02.小数的性质.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\02.小数的性质.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/03.小数的大小比较.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\03.小数的大小比较.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/04.小数加减计算（一）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\04.小数加减计算（一）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/05.小数加减计算（二）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\05.小数加减计算（二）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/06.小数加减混合运算.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\06.小数加减混合运算.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/07.三角形的分类.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\07.三角形的分类.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/08.三角形的内角和.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\08.三角形的内角和.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/09.四边形的分类.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\09.四边形的分类.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/10.小数乘整数（上）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\10.小数乘整数（上）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/11.小数点的移动.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\11.小数点的移动.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/12.小数乘小数（上）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\12.小数乘小数（上）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/13.小数乘小数（下）.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\13.小数乘小数（下）.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/14.小数乘法中积与乘数的大小关系.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\14.小数乘法中积与乘数的大小关系.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/15.从不同位置观察立体图形.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\15.从不同位置观察立体图形.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/16.按要求搭立体图形.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\16.按要求搭立体图形.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/17.还原立体图形.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\17.还原立体图形.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/18.用字母表示数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\18.用字母表示数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/19.用字母表示计算公式.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\19.用字母表示计算公式.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/20.等量关系.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\20.等量关系.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/21.认识方程.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\21.认识方程.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/22.等式性质一.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\22.等式性质一.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/23.解含有加减法的方程.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\23.解含有加减法的方程.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/24.解含有乘除法的方程.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\24.解含有乘除法的方程.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/25.列方程解决问题.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\25.列方程解决问题.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/26.优化时间之烙饼问题.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\26.优化时间之烙饼问题.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/四级下册/27.平均数.mp4
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\四级下册\27.平均数.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/动漫数学/数学作业.pdf
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\数学作业.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/动漫数学/数学同步.pdf
+File Name: C:\Downloaded Web Sites\b\file\动漫数学\数学同步.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/学习资料/%2B选择性必修第一册知识点公式汇总-2024-2025学年高二上学期数学人教A版（2019）.docx
+File Name: C:\Downloaded Web Sites\b\file\学习资料\+选择性必修第一册知识点公式汇总-2024-2025学年高二上学期数学人教A版（2019）.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://b/file/希沃展台/新的文档 1.txt
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\新的文档 1.txt
+Content Type: text/plain
+
+Uri: http://b/file/希沃展台/照片1（批注）.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片1（批注）.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片1.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片1.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片10（批注）.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片10（批注）.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片10.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片10.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片11.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片11.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片12.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片12.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片13（批注）.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片13（批注）.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片13.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片13.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片14.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片14.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片15.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片15.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片16（批注）.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片16（批注）.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片16.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片16.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片17.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片17.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片2.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片2.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片3.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片3.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片4（批注）.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片4（批注）.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片4.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片4.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片5.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片5.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片6.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片6.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片7（批注）.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片7（批注）.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片7.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片7.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片8.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片8.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/希沃展台/照片9.jpg
+File Name: C:\Downloaded Web Sites\b\file\希沃展台\照片9.jpg
+Content Type: image/jpeg
+
+Uri: http://b/file/文件收集/全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/关于做好2025年初中学业水平考试 地理等科目考试报名工作的通知.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\关于做好2025年初中学业水平考试 地理等科目考试报名工作的通知.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/关于雷州市2024-2025学年第一学期中小学校期末教学质量检测工作安排的通知.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\关于雷州市2024-2025学年第一学期中小学校期末教学质量检测工作安排的通知.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/师德专题研修附件.zip
+File Name: C:\Downloaded Web Sites\b\file\文件收集\师德专题研修附件.zip
+Content Type: application/zip
+
+Uri: http://b/file/文件收集/广东省教育厅关于印发《广东省义务教育阶段课程实施办法（2024年版）的通知.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\广东省教育厅关于印发《广东省义务教育阶段课程实施办法（2024年版）的通知.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/湛教〔2022〕12号课后服务收费及使用文件.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\湛教〔2022〕12号课后服务收费及使用文件.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/转发湛江市教育局关于印发《2024年湛江市义务教育阶段小学语文等12个学科教学设计及作业设计实施示例》的通知.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\转发湛江市教育局关于印发《2024年湛江市义务教育阶段小学语文等12个学科教学设计及作业设计实施示例》的通知.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/附件2：2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修信息汇总表.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\附件2：2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修信息汇总表.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/雷州市第十二小教育集团金海学校规划及建筑设计方案.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\雷州市第十二小教育集团金海学校规划及建筑设计方案.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修项目网络研修指南.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修项目网络研修指南.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修项目网络研修通知.pdf
+File Name: C:\Downloaded Web Sites\b\file\文件收集\2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修项目网络研修通知.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/文件收集/20240930上午 市教育局师德培训   新常态下中小学师德新内涵(929修改)最终版.pptx
+File Name: C:\Downloaded Web Sites\b\file\文件收集\20240930上午 市教育局师德培训   新常态下中小学师德新内涵(929修改)最终版.pptx
+Content Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+
+Uri: http://b/file/视频收集/广东省雷州市倜傥上村文化楼落成庆典.mp4
+File Name: C:\Downloaded Web Sites\b\file\视频收集\广东省雷州市倜傥上村文化楼落成庆典.mp4
+Content Type: video/mp4
+
+Uri: http://b/file/试卷收集/一数下册/一年级第二学期期末复习练习卷.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\一数下册\一年级第二学期期末复习练习卷.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/一数下册/口算卡.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\一数下册\口算卡.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/一语下册/一语下册复习资料.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\一语下册\一语下册复习资料.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/三数下册/2023~2024学年度第二学期期末教学质量检测.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\三数下册\2023~2024学年度第二学期期末教学质量检测.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/二数下册/2023~2024学年度第二学期期末教学质量检测.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\二数下册\2023~2024学年度第二学期期末教学质量检测.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/二语上册/二年级语文上册课文笔记.docx
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\二语上册\二年级语文上册课文笔记.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://b/file/试卷收集/二语上册/第三单元写话3篇范文.docx
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\二语上册\第三单元写话3篇范文.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: http://b/file/试卷收集/五数上册/20240927/杨家镇小学五年级数学综合能力竞赛试卷.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\杨家镇小学五年级数学综合能力竞赛试卷.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/答案-2024~2025学年度第一学期期末教学质量检测五级数学.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\答案-2024~2025学年度第一学期期末教学质量检测五级数学.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（一）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（一）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（七）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（七）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（三）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（三）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（九）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（九）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（二）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（二）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（五）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（五）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（八）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（八）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（六）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（六）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（十）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（十）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/练习卷（四）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\练习卷（四）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/试卷-2024~2025学年度第一学期期末教学质量检测五级数学.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\试卷-2024~2025学年度第一学期期末教学质量检测五级数学.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数上册/20240927/2024秋单测五年级答案.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数上册\20240927\2024秋单测五年级答案.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/五数下册/2023~2024学年度第二学期期末教学质量检测.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\五数下册\2023~2024学年度第二学期期末教学质量检测.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/六数下册/20240325/数学下册调研检测卷（一）更正.txt
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\数学下册调研检测卷（一）更正.txt
+Content Type: text/plain
+
+Uri: http://b/file/试卷收集/六数下册/20240325/数学下册调研检测卷（一）答案.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\数学下册调研检测卷（一）答案.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/六数下册/20240325/数学下册调研检测卷（一）1.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\数学下册调研检测卷（一）1.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/数学下册调研检测卷（一）2.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\数学下册调研检测卷（一）2.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/综合下册调研检测卷（一）答案.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\综合下册调研检测卷（一）答案.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/综合下册调研检测卷（一）1.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\综合下册调研检测卷（一）1.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/综合下册调研检测卷（一）2.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\综合下册调研检测卷（一）2.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/英语下册调研检测卷（一）听力.mp3
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\英语下册调研检测卷（一）听力.mp3
+Content Type: audio/mpeg
+
+Uri: http://b/file/试卷收集/六数下册/20240325/英语下册调研检测卷（一）答案.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\英语下册调研检测卷（一）答案.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/六数下册/20240325/英语下册调研检测卷（一）1.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\英语下册调研检测卷（一）1.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/英语下册调研检测卷（一）2.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\英语下册调研检测卷（一）2.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/语文下册调研检测卷（一）答案.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\语文下册调研检测卷（一）答案.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/语文下册调研检测卷（一）1.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\语文下册调研检测卷（一）1.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/六数下册/20240325/语文下册调研检测卷（一）2.webp
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\六数下册\20240325\语文下册调研检测卷（一）2.webp
+Content Type: image/webp
+
+Uri: http://b/file/试卷收集/四数上册/20240927/四年级数学试卷答案.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\四年级数学试卷答案.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/杨家镇小学四年级数学综合能力竞赛试卷.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\杨家镇小学四年级数学综合能力竞赛试卷.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/答案-2024~2025学年度第一学期期末教学质量检测四级数学.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\答案-2024~2025学年度第一学期期末教学质量检测四级数学.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（一）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（一）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（七）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（七）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（三）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（三）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（九）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（九）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（二）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（二）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（五）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（五）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（八）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（八）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（六）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（六）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（十）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（十）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/练习卷（四）.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\练习卷（四）.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/试卷收集/四数上册/20240927/试卷-2024~2025学年度第一学期期末教学质量检测四级数学.pdf
+File Name: C:\Downloaded Web Sites\b\file\试卷收集\四数上册\20240927\试卷-2024~2025学年度第一学期期末教学质量检测四级数学.pdf
+Content Type: application/pdf
+
+Uri: http://b/file/软件收集/一师一课转码工具.zip
+File Name: C:\Downloaded Web Sites\b\file\软件收集\一师一课转码工具.zip
+Content Type: application/zip
+
+Uri: http://b/file/软件收集/星号密码查看工具.zip
+File Name: C:\Downloaded Web Sites\b\file\软件收集\星号密码查看工具.zip
+Content Type: application/zip
+
+Uri: http://b/file/软件收集/电子教室.zip
+File Name: C:\Downloaded Web Sites\b\file\软件收集\电子教室.zip
+Content Type: application/zip
+
+Uri: http://b/file/软件收集/网页转APP/太极-含光·8.0.6.10181842.apk
+File Name: C:\Downloaded Web Sites\b\file\软件收集\网页转APP\太极-含光·8.0.6.10181842.apk
+Content Type: application/octet-stream
+
+Uri: http://b/file/软件收集/网页转APP/网页转APP_v1.0.apk
+File Name: C:\Downloaded Web Sites\b\file\软件收集\网页转APP\网页转APP_v1.0.apk
+Content Type: application/octet-stream
+
+Uri: http://b/file/软件收集/网页转APP/APP生成器.url
+File Name: C:\Downloaded Web Sites\b\file\软件收集\网页转APP\APP生成器.url
+Content Type: application/octet-stream
+
+Uri: http://b/file/软件收集/网页转APP/APP生成器v1.1.apk
+File Name: C:\Downloaded Web Sites\b\file\软件收集\网页转APP\APP生成器v1.1.apk
+Content Type: application/octet-stream
+
+Uri: http://b/file/软件收集/网页转APP/FusionApp-2.0.0-beta8.7.2.apk
+File Name: C:\Downloaded Web Sites\b\file\软件收集\网页转APP\FusionApp-2.0.0-beta8.7.2.apk
+Content Type: application/octet-stream
+
+Uri: http://b/file/?c=admin
+File Name: C:\Downloaded Web Sites\b\file\index-1.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F体测评分
+File Name: C:\Downloaded Web Sites\b\file\index-2.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F体测评分%2F标准
+File Name: C:\Downloaded Web Sites\b\file\index-13.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F体测评分%2F视频
+File Name: C:\Downloaded Web Sites\b\file\index-14.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F体测评分%2F评分
+File Name: C:\Downloaded Web Sites\b\file\index-15.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F动漫数学
+File Name: C:\Downloaded Web Sites\b\file\index-3.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F动漫数学%2F四级上册
+File Name: C:\Downloaded Web Sites\b\file\index-17.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F动漫数学%2F四级下册
+File Name: C:\Downloaded Web Sites\b\file\index-18.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F城乡医保
+File Name: C:\Downloaded Web Sites\b\file\index-4.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F学习资料
+File Name: C:\Downloaded Web Sites\b\file\index-5.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F希沃展台
+File Name: C:\Downloaded Web Sites\b\file\index-6.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F快乐购物
+File Name: C:\Downloaded Web Sites\b\file\index-7.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F文件收集
+File Name: C:\Downloaded Web Sites\b\file\index-8.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F视频收集
+File Name: C:\Downloaded Web Sites\b\file\index-9.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集
+File Name: C:\Downloaded Web Sites\b\file\index-10.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F一数下册
+File Name: C:\Downloaded Web Sites\b\file\index-26.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F一语下册
+File Name: C:\Downloaded Web Sites\b\file\index-27.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F三数下册
+File Name: C:\Downloaded Web Sites\b\file\index-28.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F二数下册
+File Name: C:\Downloaded Web Sites\b\file\index-29.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F二语上册
+File Name: C:\Downloaded Web Sites\b\file\index-30.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F五数上册
+File Name: C:\Downloaded Web Sites\b\file\index-31.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F五数上册%2F20240927
+File Name: C:\Downloaded Web Sites\b\file\index-48.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F五数下册
+File Name: C:\Downloaded Web Sites\b\file\index-32.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F六数下册
+File Name: C:\Downloaded Web Sites\b\file\index-33.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F六数下册%2F20240325
+File Name: C:\Downloaded Web Sites\b\file\index-51.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F四数上册
+File Name: C:\Downloaded Web Sites\b\file\index-34.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F试卷收集%2F四数上册%2F20240927
+File Name: C:\Downloaded Web Sites\b\file\index-53.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F软件收集
+File Name: C:\Downloaded Web Sites\b\file\index-11.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=%2F软件收集%2F网页转APP
+File Name: C:\Downloaded Web Sites\b\file\index-36.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/体测评分
+File Name: C:\Downloaded Web Sites\b\file\index-12.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/体测评分/标准
+File Name: C:\Downloaded Web Sites\b\file\index-37.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/体测评分/视频
+File Name: C:\Downloaded Web Sites\b\file\index-38.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/体测评分/评分
+File Name: C:\Downloaded Web Sites\b\file\index-39.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/动漫数学
+File Name: C:\Downloaded Web Sites\b\file\index-16.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/动漫数学/四级上册
+File Name: C:\Downloaded Web Sites\b\file\index-40.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/动漫数学/四级下册
+File Name: C:\Downloaded Web Sites\b\file\index-41.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/城乡医保
+File Name: C:\Downloaded Web Sites\b\file\index-19.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/学习资料
+File Name: C:\Downloaded Web Sites\b\file\index-20.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/希沃展台
+File Name: C:\Downloaded Web Sites\b\file\index-21.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/快乐购物
+File Name: C:\Downloaded Web Sites\b\file\index-22.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/文件收集
+File Name: C:\Downloaded Web Sites\b\file\index-23.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/视频收集
+File Name: C:\Downloaded Web Sites\b\file\index-24.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集
+File Name: C:\Downloaded Web Sites\b\file\index-25.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/一数下册
+File Name: C:\Downloaded Web Sites\b\file\index-42.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/一语下册
+File Name: C:\Downloaded Web Sites\b\file\index-43.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/三数下册
+File Name: C:\Downloaded Web Sites\b\file\index-44.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/二数下册
+File Name: C:\Downloaded Web Sites\b\file\index-45.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/二语上册
+File Name: C:\Downloaded Web Sites\b\file\index-46.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/五数上册
+File Name: C:\Downloaded Web Sites\b\file\index-47.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/五数上册/20240927
+File Name: C:\Downloaded Web Sites\b\file\index-55.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/五数下册
+File Name: C:\Downloaded Web Sites\b\file\index-49.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/六数下册
+File Name: C:\Downloaded Web Sites\b\file\index-50.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/六数下册/20240325
+File Name: C:\Downloaded Web Sites\b\file\index-56.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/四数上册
+File Name: C:\Downloaded Web Sites\b\file\index-52.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/试卷收集/四数上册/20240927
+File Name: C:\Downloaded Web Sites\b\file\index-57.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/软件收集
+File Name: C:\Downloaded Web Sites\b\file\index-35.htm
+Content Type: text/html
+
+Uri: http://b/file/?dir=/软件收集/网页转APP
+File Name: C:\Downloaded Web Sites\b\file\index-54.htm
+Content Type: text/html
+
+Uri: http://b/file/_dir/static/css/style.css?v=1002
+File Name: C:\Downloaded Web Sites\b\file\_dir\static\css\style.css
+Content Type: text/css
+
+Uri: http://b/file/_dir/static/images/logo.png
+File Name: C:\Downloaded Web Sites\b\file\_dir\static\images\logo.png
+Content Type: image/png
+
+Uri: http://b/file/_dir/static/js/clipBoard.min.js
+File Name: C:\Downloaded Web Sites\b\file\_dir\static\js\clipBoard.min.js
+Content Type: application/javascript
+
+Uri: http://b/file/_dir/static/js/main.js?v=1.5
+File Name: C:\Downloaded Web Sites\b\file\_dir\static\js\main.js
+Content Type: application/javascript
+
+Uri: http://b/images/logo.webp
+File Name: C:\Downloaded Web Sites\b\images\logo.webp
+Content Type: image/webp
+
+Uri: http://b/index-1.html
+File Name: C:\Downloaded Web Sites\b\index-1.html
+Content Type: text/html
+
+Uri: http://b/index-2.html
+File Name: C:\Downloaded Web Sites\b\index-2.html
+Content Type: text/html
+
+Uri: http://b/index-3.html
+File Name: C:\Downloaded Web Sites\b\index-3.html
+Content Type: text/html
+
+Uri: http://b/index-4.html
+File Name: C:\Downloaded Web Sites\b\index-4.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=http:%2F%2F0393.com.cn
+File Name: C:\Downloaded Web Sites\b\index.php-1.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=http:%2F%2Fblog.mboker.cn
+File Name: C:\Downloaded Web Sites\b\index.php-3.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=http:%2F%2Fwww.snbk.cn%2F
+File Name: C:\Downloaded Web Sites\b\index.php-1.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=https:%2F%2Flinji.cn
+File Name: C:\Downloaded Web Sites\b\index.php.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=https:%2F%2Fwww.crant.cn
+File Name: C:\Downloaded Web Sites\b\index.php-2.html
+Content Type: text/html
+
+Uri: http://b/list-0.html
+File Name: C:\Downloaded Web Sites\b\list-0.html
+Content Type: text/html
+
+Uri: http://b/list-1-1.html
+File Name: C:\Downloaded Web Sites\b\list-1-1.html
+Content Type: text/html
+
+Uri: http://b/list-1-2.html
+File Name: C:\Downloaded Web Sites\b\list-1-2.html
+Content Type: text/html
+
+Uri: http://b/list-1-3.html
+File Name: C:\Downloaded Web Sites\b\list-1-3.html
+Content Type: text/html
+
+Uri: http://b/list-1-4.html
+File Name: C:\Downloaded Web Sites\b\list-1-4.html
+Content Type: text/html
+
+Uri: http://b/list-1.html
+File Name: C:\Downloaded Web Sites\b\list-1.html
+Content Type: text/html
+
+Uri: http://b/list-2.html
+File Name: C:\Downloaded Web Sites\b\list-2.html
+Content Type: text/html
+
+Uri: http://b/list-3.html
+File Name: C:\Downloaded Web Sites\b\list-3.html
+Content Type: text/html
+
+Uri: http://b/list-4.html
+File Name: C:\Downloaded Web Sites\b\list-4.html
+Content Type: text/html
+
+Uri: http://b/list-5.html
+File Name: C:\Downloaded Web Sites\b\list-5.html
+Content Type: text/html
+
+Uri: http://b/list-6.html
+File Name: C:\Downloaded Web Sites\b\list-6.html
+Content Type: text/html
+
+Uri: http://b/list-7.html
+File Name: C:\Downloaded Web Sites\b\list-7.html
+Content Type: text/html
+
+Uri: http://b/list-8.html
+File Name: C:\Downloaded Web Sites\b\list-8.html
+Content Type: text/html
+
+Uri: http://b/pdf/build/pdf.js
+File Name: C:\Downloaded Web Sites\b\pdf\build\pdf.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/compatibility.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\compatibility.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/debugger.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\debugger.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/images/findbarButton-next-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/grab.cur
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\grab.cur
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/images/grabbing.cur
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\grabbing.cur
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/images/loading-icon.gif
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-icon.gif
+Content Type: image/gif
+
+Uri: http://b/pdf/web/images/loading-small.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-small.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/loading-small@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-small@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-documentProperties.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-documentProperties.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-documentProperties@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-documentProperties@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-firstPage.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-firstPage.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-firstPage@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-firstPage@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-handTool.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-handTool.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-handTool@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-handTool@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-lastPage.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-lastPage.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-lastPage@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-lastPage@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCcw.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCcw.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCcw@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCcw@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCw.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCw.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCw@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCw@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/shadow.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\shadow.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/texture.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\texture.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-bookmark.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-bookmark.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-bookmark@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-bookmark@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-download.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-download.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-download@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-download@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-menuArrows.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-menuArrows.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-menuArrows@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-menuArrows@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-openFile.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-openFile.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-openFile@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-openFile@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-presentationMode.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-presentationMode.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-presentationMode@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-presentationMode@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-print.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-print.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-print@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-print@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-search.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-search.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-search@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-search@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewAttachments.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewAttachments.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewAttachments@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewAttachments@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewThumbnail.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewThumbnail.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewThumbnail@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewThumbnail@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomIn.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomIn.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomIn@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomIn@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomOut.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomOut.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomOut@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomOut@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/l10n.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\l10n.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/locale/locale.properties
+File Name: C:\Downloaded Web Sites\b\pdf\web\locale\locale.properties
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/viewer.css
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.css
+Content Type: text/css
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2020/03/2019-386.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-3.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2021/01/关于2020年雷州市“淬炼师德师能，践行育人使命”师德征文及微视频征集评选结果的通报.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-2.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2023/02/关于2022年雷州市“迎接党的二十大，培根铸魂育新人”师德征文及微视频评选结果的通报.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-1.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2025/01/关于2024年雷州市“大力弘扬教育家精神 加快建设教育强国” 师德征文及微视频评比获奖情况的通报.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.js
+Content Type: application/javascript
+
+Uri: https://api.dujin.org/bing/1920.php
+File Name: C:\Downloaded Web Sites\b\bing\1920.php
+Content Type: image/jpeg
+
+Uri: https://m.wdlu.cn/
+File Name: C:\Downloaded Web Sites\b\index-1.htm
+Content Type: text/html
+
+Uri: https://m.wdlu.cn/css/APlayer.min.css
+File Name: C:\Downloaded Web Sites\b\css\APlayer.min.css
+Content Type: text/css
+
+Uri: https://m.wdlu.cn/js/APlayer.min.js
+File Name: C:\Downloaded Web Sites\b\js\APlayer.min.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/js/main.js
+File Name: C:\Downloaded Web Sites\b\js\main.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/js/Meting.min.js
+File Name: C:\Downloaded Web Sites\b\js\Meting.min.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/c6y0bbv0.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\c6y0bbv0.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/co4q77ak.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\co4q77ak.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/e8ce4k72.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\e8ce4k72.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/ec7yh18l.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\ec7yh18l.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/entry.mz1ryyi9.css
+File Name: C:\Downloaded Web Sites\b\_nuxt\entry.mz1ryyi9.css
+Content Type: text/css
+
+Uri: https://m.wdlu.cn/_nuxt/error-404.c7oujjhp.css
+File Name: C:\Downloaded Web Sites\b\_nuxt\error-404.c7oujjhp.css
+Content Type: text/css
+
+Uri: https://m.wdlu.cn/_nuxt/error-500.kjj05zik.css
+File Name: C:\Downloaded Web Sites\b\_nuxt\error-500.kjj05zik.css
+Content Type: text/css
+
+Uri: https://m.wdlu.cn/_nuxt/eytrhzjt.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\eytrhzjt.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/gmht5bgz.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\gmht5bgz.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/iy9wi2re.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\iy9wi2re.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/jn4tgqpo.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\jn4tgqpo.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/md9ta363.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\md9ta363.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/oqvp7yz5.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\oqvp7yz5.js
+Content Type: text/javascript
+
+Uri: https://m.wdlu.cn/_nuxt/ou69qqfo.js
+File Name: C:\Downloaded Web Sites\b\_nuxt\ou69qqfo.js
+Content Type: text/javascript
+
+Uri: https://s4.zstatic.net/ajax/libs/aplayer/1.10.1/APlayer.min.css
+File Name: C:\Downloaded Web Sites\b\ajax\libs\aplayer\1.10.1\APlayer.min.css
+Content Type: text/css
+
+Uri: https://s4.zstatic.net/ajax/libs/aplayer/1.10.1/APlayer.min.js
+File Name: C:\Downloaded Web Sites\b\ajax\libs\aplayer\1.10.1\APlayer.min.js
+Content Type: application/javascript
+
+Uri: https://s4.zstatic.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\b\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://s4.zstatic.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\b\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://s4.zstatic.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\b\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://s4.zstatic.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\b\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://s4.zstatic.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\b\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://s4.zstatic.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\b\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://s4.zstatic.net/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\b\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://s4.zstatic.net/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css
+File Name: C:\Downloaded Web Sites\b\ajax\libs\github-markdown-css\5.1.0\github-markdown.min.css
+Content Type: text/css
+
+Uri: https://s4.zstatic.net/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js
+File Name: C:\Downloaded Web Sites\b\ajax\libs\jquery.qrcode\1.0\jquery.qrcode.min.js
+Content Type: application/javascript
+
+Uri: https://s4.zstatic.net/ajax/libs/jquery/3.6.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\b\ajax\libs\jquery\3.6.4\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://s4.zstatic.net/ajax/libs/layer/3.1.1/layer.js
+File Name: C:\Downloaded Web Sites\b\ajax\libs\layer\3.1.1\layer.js
+Content Type: application/javascript
+
+Uri: https://s4.zstatic.net/ajax/libs/popper.js/1.16.1/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\b\ajax\libs\popper.js\1.16.1\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://s4.zstatic.net/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\b\ajax\libs\twitter-bootstrap\4.6.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://s4.zstatic.net/ajax/libs/twitter-bootstrap/4.6.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\b\ajax\libs\twitter-bootstrap\4.6.1\js\bootstrap.min.js
+Content Type: application/javascript
+
