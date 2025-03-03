@@ -150,6 +150,10 @@ Uri: http://b/archives.html
 File Name: C:\Downloaded Web Sites\b\archives.html
 Content Type: text/html
 
+Uri: http://b/assets/file/2020/02/b_024837_1997016060.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_024837_1997016060.webp.html
+Content Type: image/webp
+
 Uri: http://b/assets/file/2020/02/b_101134_1004881075.jpg
 File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_101134_1004881075.jpg
 Content Type: image/jpeg
@@ -241,6 +245,10 @@ Content Type: image/jpeg
 Uri: http://b/assets/file/2020/02/b_130232_237626732.jpg
 File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_130232_237626732.jpg
 Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/head.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\head.webp
+Content Type: image/webp
 
 Uri: http://b/assets/file/2020/02/s_024837_1997016060.jpg
 File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_024837_1997016060.jpg
@@ -358,6 +366,18 @@ Uri: http://b/assets/file/2020/03/s_205711_539945086.jpg
 File Name: C:\Downloaded Web Sites\b\assets\file\2020\03\s_205711_539945086.jpg
 Content Type: image/jpeg
 
+Uri: http://b/assets/file/2021/01/2021010401.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\01\2021010401.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/01/2021010402.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\01\2021010402.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/01/2021010403.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\01\2021010403.webp.html
+Content Type: image/webp
+
 Uri: http://b/assets/file/2021/02/2021022101.webp
 File Name: C:\Downloaded Web Sites\b\assets\file\2021\02\2021022101.webp
 Content Type: image/webp
@@ -365,6 +385,26 @@ Content Type: image/webp
 Uri: http://b/assets/file/2021/04/s_115716_921038280.jpg
 File Name: C:\Downloaded Web Sites\b\assets\file\2021\04\s_115716_921038280.jpg
 Content Type: image/jpeg
+
+Uri: http://b/assets/file/2021/12/2021120901.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\12\2021120901.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/12/2021120902.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\12\2021120902.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/12/2021120903.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\12\2021120903.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/12/2021120915.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\12\2021120915.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/12/2021120916.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\12\2021120916.webp.html
+Content Type: image/webp
 
 Uri: http://b/assets/file/2021/12/s_104248_695523864.jpg
 File Name: C:\Downloaded Web Sites\b\assets\file\2021\12\s_104248_695523864.jpg
@@ -680,6 +720,10 @@ Content Type: text/html
 
 Uri: http://b/index-4.html
 File Name: C:\Downloaded Web Sites\b\index-4.html
+Content Type: text/html
+
+Uri: http://b/index.html
+File Name: C:\Downloaded Web Sites\b\index.html
 Content Type: text/html
 
 Uri: http://b/index.php?act=target&s=http:%2F%2F0393.com.cn
