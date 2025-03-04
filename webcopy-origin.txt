@@ -766,11 +766,3 @@ Uri: http://b/list-1.html
 File Name: C:\Downloaded Web Sites\b\list-1.html
 Content Type: text/html
 
-Uri: http://b/list-2.html
-File Name: C:\Downloaded Web Sites\b\list-2.html
-Content Type: text/html
-
-Uri: https://api.dujin.org/bing/1920.php
-File Name: C:\Downloaded Web Sites\b\bing\1920.php
-Content Type: image/jpeg
-
