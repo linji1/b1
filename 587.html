@@ -53,9 +53,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 <!--默认使用极速内核：针对国内浏览器产商-->
 <meta name="renderer" content="webkit">
-<title>第 28 张证书：林继老师：您&nbsp;|&nbsp;老林笔记</title>
+<title>2024年广东公需课学习指引及答案&nbsp;|&nbsp;老林笔记</title>
 <meta name="keywords" content="" />
-<meta name="description" content="第 28 张证书：林继老师：您从事乡村教育工作满二十年，为我省乡村教育发展做出积极贡献，特颁此证。证书编号：系列号：0024761。（广东省教育厅 二0二三年八月） 执教时长：            // 判断是否为闰年的函数        function isLeapYear(year) {            return (year % 4 === 0 && year % 100!== 0) || year % 400 === 0;        }        // 计算两个日期之间时间差，并精确计算月份差的函数        function calculateTimeDifference(startDate, endDate) {            const diffInMilliseconds = endDate - startDate;            // 先计算完整的年份差            const years = Math.floor(diffInMilliseconds / (1000 * 60 * 60 * 24 * 365));            // 扣除已计算的年份对应的毫秒数，得到剩余毫秒数用于后续计算            let remainingMilliseconds = diffInMilliseconds % (1000 * 60 * 60 * 24 * 365);            // 计算月份差，通过逐月递减剩余毫秒数并统计月份            let months = 0;            const monthsInYear = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];            const startYear = startDate.getFullYear();            for (let i = 0; i < 12; i++) {                const daysInMonth = i === 1 && isLeapYear(startYear + years)? 29 : monthsInYear[i];                const millisecondsInMonth = 1000 * 60 * 60 * 24 * daysInMonth;                if (remainingMilliseconds >= millisecondsInMonth) {                    months++;                    remainingMilliseconds -= millisecondsInMonth;                } else {                    break;                }            }            // 计算天数差            const days = Math.floor(remainingMilliseconds / (1000 * 60 * 60 * 24));            remainingMilliseconds %= (1000 * 60 * 60 * 24);            // 计算小时差            const hours = Math.floor(remainingMilliseconds / (1000 * 60 * 60));            remainingMilliseconds %= (1000 * 60 * 60);            // 计算分钟差            const minutes = Math.floor(remainingMilliseconds / (1000 * 60));            remainingMilliseconds %= (1000 * 60);            // 计算秒数差            const seconds = Math.floor(remainingMilliseconds / 1000);            return {                years,                months,                days,                hours,                minutes,                seconds            };        }        function updateClock(elementId, startDateStr) {            const startDate = new Date(startDateStr);            startDate.setTime(startDate.getTime() + 8 * 60 * 60 * 1000); // 转换为北京时间            function updateTimeDisplay2() {                const endDate = new Date();                endDate.setTime(endDate.getTime() + 8 * 60 * 60 * 1000); // 转换为北京时间                const { years, months, days, hours, minutes, seconds } = calculateTimeDifference(startDate, endDate);                document.getElementById(elementId).innerHTML = `${years} 年 ${months} 月 ${days} 天 ${hours} 时 ${minutes} 分 ${seconds} 秒`;            }            // 每隔1秒更新一次时间差显示            setInterval(updateTimeDisplay2, 1000);        }        updateClock(txClock, 2001-09-01T00:00:00);    " />
+<meta name="description" content="			                            			    0/42                            专业课                        			                                                    			    0/30                            公需课                        			                                                    			    0/18                            选修课                                            startclock2()            var timerID = null;            var timerRunning = false;            // 判断是否为闰年的函数            function isLeapYear(year) {                return (year % 4 === 0 && year % 100!== 0) || year % 400 === 0;            }            function showtime4() {                // 获取当前时间并转换为东八区时间（北京时间）                var offset = new Date().getTimezoneOffset();                var now = new Date(Date.now() + offset * 60 * 1000 + 8 * 60 * 60 * 1000);                var NowHour = now.getHours();                var NowMinute = now.getMinutes();                var NowMonth = now.getMonth();                var NowDate = now.getDate();                var NowYear = now.getFullYear();                var NowSecond = now.getSeconds();                var targetYear = 2042;                var targetMonth = 9;                var targetDate = 8;                var Yearleft = targetYear - NowYear;                var Monthleft = targetMonth - NowMonth - 1;                var Dateleft = targetDate - NowDate;                // 处理时间差值计算，考虑各种边界情况以及闰年                if (Dateleft < 0) {                    Monthleft--;                    if (NowMonth === 1) {                        // 处理2月情况，区分闰年和平年                        if (isLeapYear(NowYear)) {                            Dateleft += 29;                        } else {                            Dateleft += 28;                        }                    } else {                        var monthDays = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];                        Dateleft += monthDays[NowMonth];                    }                }                if (Monthleft < 0) {                    Monthleft += 12;                    Yearleft--;                }                var Hourleft = 24 - NowHour;                var Minuteleft = 0 - NowMinute;                var Secondleft = 0 - NowSecond;                if (Secondleft < 0) {                    Secondleft = 60 + Secondleft;                    Minuteleft = Minuteleft - 1;                }                if (Minuteleft < 0) {                    Minuteleft = 60 + Minuteleft;                    Hourleft = Hourleft - 1;                }                if (Hourleft < 0) {                    Hourleft = 24 + Hourleft;                    Dateleft = Dateleft - 1;                    if (Dateleft < 0) {                        Dateleft += 31;                        Monthleft = Monthleft - 1;                        if (Monthleft < 0) {                            Monthleft += 12;                            Yearleft = Yearleft - 1;                        }                    }                }                var cc = document.getElementById('life100');                cc.innerHTML = '离 63 岁还有:'+Yearleft+'年 - '+Monthleft+'月 - '+Dateleft+'天 - '+Hourleft+'时 - '+Minuteleft+'分 - '+Secondleft+'秒' ;                 timerID = setTimeout(showtime4(), 1000);                timerRunning = true;            }            var timerID = null;            var timerRunning = false;            function stopclock2() {                if (timerRunning)                    clearTimeout(timerID);                timerRunning = false;            }            function startclock2() {                stopclock2();                showtime4();            }            // -->                 var items = document.querySelectorAll('#log-587 a');items[0].innerHTML = '2025年度继教学时2024年广东公需课学习指引及答案';@media screen and (min-width: 950px) and (max-width:99999px) {.ttst {    display: none;}.ttst1 {    display: block;}}@media screen and (max-width:950px){.ttst1 {    display: none;}.ttst {    display: block;}} " />
 <link href="/assets/qblog/style.css" rel="stylesheet" type="text/css" />
 <link href="/assets/js/highlightjs/dark.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" language="javascript" src="/assets/js/jquery.min.js"></script>
@@ -553,8 +553,8 @@ document.body.addEventListener('input', POWERMODE);
   <div id="content" style="position: relative;">
   <div class="breadcrumb" style="margin-top: -5px;"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home" style="width: 10px;   width: 14px;height: 14px;vertical-align: -2px;
 "><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg><a href="/" style="padding-left: 5px;color: #7d8c8e;">首页</a>
-<span>/</span><a href="/b1/list-1.html" style="color: #7d8c8e;">荣誉证书</a><span>/</span>正文</div>
-<audio id="audioPlayer" controls preload style="max-width: 50%;opacity: .4;float: right;height: 24px;margin-top: -6px;" title="收听本文" src="https://dict.youdao.com/dictvoice?le=zh&audio=。第 28 张证书林继老师您从事乡村教育工作满二十年，为我省乡村教育发展做出积极贡献，特颁此证。证书编号系列号0024761。广东省教育厅 二0二三年八月执教23年4月13天11时36分35秒             判断是否为闰年的函数        function isLeapYearyear             return year  4  0  year  100 0  year  400  0                 计算两个日期之间时间差，并精确计算月份差的函数        function calculateTimeDifferencestartDate, en">
+<span>/</span><a href="/b2/list-2.html" style="color: #7d8c8e;">继续教育</a><span>/</span>正文</div>
+<audio id="audioPlayer" controls preload style="max-width: 50%;opacity: .4;float: right;height: 24px;margin-top: -6px;" title="收听本文" src="https://dict.youdao.com/dictvoice?le=zh&audio=2024年广东公需课学习指引及答案。学习入口截止时间为2025年4月30日微信15816122881  QQ4441614761 学习内容开始时间为2024年5月10日围绕国家和省委省政府经济社会高质量发展的部署要求，结合我省继续教育工作实际，经研究论证，我省2024年度专业技术人员继续教育公需科目确定为新质生产力与高质量发展，百县千镇万村高质量发展工程与城乡区域协调发展两个专题。2 学习任务2024年度全省专业技术人员继续教育公需科目学习任务按30学时计算，专业技术人员从2个专题中任意选择1个学满30学时，均可认定为完成当年度的公需科目学习任务。3 学习途径更新于 20210625 2100">
   您的浏览器不支持 audio 元素。
 </audio>
 <span id="translate" style="border: 0px;cursor: pointer;float: right;color: #7d8c8e;font-size: 12px;margin-top: -5px;"></span>
@@ -562,7 +562,7 @@ document.body.addEventListener('input', POWERMODE);
     <script>
         const audioPlayer = document.getElementById('audioPlayer');
         const audioFiles = [
-            'https://dict.youdao.com/dictvoice?le=zh&audio=。第 28 张证书林继老师您从事乡村教育工作满二十年，为我省乡村教育发展做出积极贡献，特颁此证。证书编号系列号0024761。广东省教育厅 二0二三年八月执教23年4月13天11时36分35秒             判断是否为闰年的函数        function isLeapYearyear             return year  4  0  year  100 0  year  400  0                 计算两个日期之间时间差，并精确计算月份差的函数        function calculateTimeDifferencestartDate, en','https://dict.youdao.com/dictvoice?le=zh&audio=dDate             const diffInMilliseconds  endDate  startDate             先计算完整的年份差            const years  MathfloordiffInMilliseconds  1000  60  60  24  365             扣除已计算的年份对应的毫秒数，得到剩余毫秒数用于后续计算            let remainingMilliseconds  diffInMilliseconds  1000  60  60  24  365             计算月份差，通','https://dict.youdao.com/dictvoice?le=zh&audio=过逐月递减剩余毫秒数并统计月份            let months  0            const monthsInYear  31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31            const startYear  startDategetFullYear            for let i  0 i  12 i                 const daysInMonth  i  1  isLeapYearstartYear  years 29  monthsInYeari               ','https://dict.youdao.com/dictvoice?le=zh&audio= const millisecondsInMonth  1000  60  60  24  daysInMonth                if remainingMilliseconds  millisecondsInMonth                     months                    remainingMilliseconds  millisecondsInMonth                 else                     break                                         计算天数差','https://dict.youdao.com/dictvoice?le=zh&audio=            const days  MathfloorremainingMilliseconds  1000  60  60  24            remainingMilliseconds  1000  60  60  24             计算小时差            const hours  MathfloorremainingMilliseconds  1000  60  60            remainingMilliseconds  1000  60  60             计算分钟差            const minutes','https://dict.youdao.com/dictvoice?le=zh&audio=  MathfloorremainingMilliseconds  1000  60            remainingMilliseconds  1000  60             计算秒数差            const seconds  MathfloorremainingMilliseconds  1000            return                 years,                months,                days,                hours,                minutes,   ','https://dict.youdao.com/dictvoice?le=zh&audio=             seconds                            function updateClockelementId, startDateStr             const startDate  new DatestartDateStr            startDatesetTimestartDategetTime  8  60  60  1000  转换为北京时间            function updateTimeDisplay2                 const endDate  new Date          ','https://dict.youdao.com/dictvoice?le=zh&audio=      endDatesetTimeendDategetTime  8  60  60  1000  转换为北京时间                const  years, months, days, hours, minutes, seconds   calculateTimeDifferencestartDate, endDate                documentgetElementByIdelementIdinnerHTML  years年months月days天hours时minutes分seconds秒                         每隔1秒更新','https://dict.youdao.com/dictvoice?le=zh&audio=一次时间差显示            setIntervalupdateTimeDisplay2, 1000                updateClocktxClock, 20010901T000000    ',        ];
+            'https://dict.youdao.com/dictvoice?le=zh&audio=2024年广东公需课学习指引及答案。学习入口截止时间为2025年4月30日微信15816122881  QQ4441614761 学习内容开始时间为2024年5月10日围绕国家和省委省政府经济社会高质量发展的部署要求，结合我省继续教育工作实际，经研究论证，我省2024年度专业技术人员继续教育公需科目确定为新质生产力与高质量发展，百县千镇万村高质量发展工程与城乡区域协调发展两个专题。2 学习任务2024年度全省专业技术人员继续教育公需科目学习任务按30学时计算，专业技术人员从2个专题中任意选择1个学满30学时，均可认定为完成当年度的公需科目学习任务。3 学习途径更新于 20210625 2100','https://dict.youdao.com/dictvoice?le=zh&audio=广东省教师继续教育信息管理平台httpsjsglptgdedugovcn 咨询电话4009989352  帐号与密码说明  客服  留言广东省卫生健康行业学习平台网址httpswww91huayicom咨询电话 02038914613华医网4 教师资格证书定期注册学时要求连续五年，每年累计应不少于90学时，其中公需课不少于30学时，专业课不少于42学时，选修课不少于18学时。layuicolspace15     padding 75pxlayuicolspace15     margin 75pxzhiche     border 2px dashed cdc8c8media screen ','https://dict.youdao.com/dictvoice?le=zh&audio=and minwidth 992pxlayuicolmd6     width 50float leftposition relative    display block    boxsizing borderboxzhiche       width 100      height auto    border 2px dashed cdc8c8media screen and maxwidth650pxzhiche       height auto      width 100                           5 学习结果6 考核答案function showdiv','https://dict.youdao.com/dictvoice?le=zh&audio=targetid,objN         var targetdocumentgetElementByIdtargetid      var clicktextdocumentgetElementByIdobjN            if targetstyledisplayblock                targetstyledisplaynone               else                 targetstyledisplayblock               新质生产力与高质量发展            B，A，D，B，B，A，C，D，A，A，','https://dict.youdao.com/dictvoice?le=zh&audio=B，A，ABC，AB，ABC，ABC，ABC，ABC，ABCDE，ABCDE，B，B，A，A，A，B，B，A，A，B    百县千镇万村高质量发展工程与城乡区域协调发展            C，A，C，B，A，B，D，C，D，D，ABC，ABD，ABC，ABC，ABCD，ABCDE，ABCDE，ABCD，ABC，A，A，B，A，A，A，B，B，A，A    7 学时查询，证书打印查询学时专业课，选修课，公需课省教师继教平台广东省教师继续教育信息管理平台查询学时专业课，选修课，公需课，打印继续教育证书广东省人力资源和社会保障厅网上服务平台注专技网平台广东省专业技术人员继续教育管理系统打印专业技','https://dict.youdao.com/dictvoice?le=zh&audio=术人员继续教育证书8 公需课代挂说明1，我这边都是通过真实浏览器进行网课代挂，一般都是 1 倍速进行播放特殊要求除外。可以保证学习记录不异常，学时正常记录。2，我崇尚的理念是一次合作，终身合作。有代挂需求的人基本上都是体系内的公职人员，年年都要学网课，最害怕学习出现问题如倍速秒过后学时异常被通报批评，无法获取本年度学分等，我这边都是真实浏览器代挂，不倍速，不秒过，积累老客户，做回头客生意。3，收费标准每位20元。4，需要帮忙的老师可以在赞赏码留言栏填写帐号与密码。',        ];
         let currentTrack = 0;
 
         // 点击播放按钮时开始播放
@@ -601,92 +601,163 @@ document.body.addEventListener('input', POWERMODE);
     <div id="main1">         
 <div id="article">
 <div  id="printview">
-<div class="text">
-第 28 张证书：林继老师：您从事乡村教育工作满二十年，为我省乡村教育发展做出积极贡献，特颁此证。证书编号：系列号：0024761。广东省教育厅 二0二三年八月<br>
+<h1>2024年广东公需课学习指引及答案</h1><div class="text">
+<center>
+<a target="_blank" href="https://jsglpt.gdedu.gov.cn/" style="font-size: 25px;">学习入口</a><br>
+<span style="color: #787878;font-size: 14px;">截止时间为2025年4月30日</span><br>
+<span style="color: #bdbcba;font-size: 14px;"><a href="/assets/file/2022/12/2022120205.webp" data-fancybox="gallery" data-caption="微信：15816122881" title="微信：15816122881">微信：15816122881</a> | <a href="/assets/file/2023/04/2023040702.webp" data-fancybox="gallery" data-caption="QQ：444161476" title="QQ：444161476">QQ：444161476</a></span><br>
+</center>
 
-<center title="2001-09-01"><span style="display: true;text-align: center;margin-bottom: 0px;font-size: 22px;line-height: 1.8em;">执教：</span><span id="txClock" style="display: true;text-align: center;margin-bottom: 0px;font-size: 22px;line-height: 1.8em;color: red;">23年4月13天11时36分35秒</span></center>
-    <script language="javascript">
-        // 判断是否为闰年的函数
-        function isLeapYear(year) {
-            return (year % 4 === 0 && year % 100!== 0) || year % 400 === 0;
-        }
+<strong>1️⃣ 学习内容</strong><span style="color: #787878;font-size: 12px;float: right;">开始时间为2024年5月10日</span>
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;" title="别的属性：
+none：无样式；dotted：点线；dashed：虚线；solid：实线；
+double：双线；groove：槽线；ridge：脊线；inset：内凹；outset：外凸。">
 
-        // 计算两个日期之间时间差，并精确计算月份差的函数
-        function calculateTimeDifference(startDate, endDate) {
-            const diffInMilliseconds = endDate - startDate;
+围绕国家和省委省政府经济社会高质量发展的部署要求，结合我省继续教育工作实际，经研究论证，我省2024年度专业技术人员继续教育公需科目确定为“新质生产力与高质量发展”、“‘百县千镇万村高质量发展工程’与城乡区域协调发展”两个专题。<br><br>
 
-            // 先计算完整的年份差
-            const years = Math.floor(diffInMilliseconds / (1000 * 60 * 60 * 24 * 365));
-            // 扣除已计算的年份对应的毫秒数，得到剩余毫秒数用于后续计算
-            let remainingMilliseconds = diffInMilliseconds % (1000 * 60 * 60 * 24 * 365);
+<strong>2️⃣ 学习任务</strong><br>
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;">
 
-            // 计算月份差，通过逐月递减剩余毫秒数并统计月份
-            let months = 0;
-            const monthsInYear = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+2024年度全省专业技术人员继续教育公需科目学习任务按30学时计算，专业技术人员从2个专题中任意选择1个学满30学时，均可认定为完成当年度的公需科目学习任务。<br><br>
 
-            const startYear = startDate.getFullYear();
-            for (let i = 0; i < 12; i++) {
-                const daysInMonth = i === 1 && isLeapYear(startYear + years)? 29 : monthsInYear[i];
-                const millisecondsInMonth = 1000 * 60 * 60 * 24 * daysInMonth;
-                if (remainingMilliseconds >= millisecondsInMonth) {
-                    months++;
-                    remainingMilliseconds -= millisecondsInMonth;
-                } else {
-                    break;
-                }
+<strong>3️⃣ 学习途径</strong><br>
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;">
+
+<strong>更新于 2021.06.25 21:00</strong><br>
+
+广东省教师继续教育信息管理平台：<a target="_blank" href="https://jsglpt.gdedu.gov.cn/" style="">https://jsglpt.gdedu.gov.cn/</a><br>
+ 咨询电话：400-998-9352 （ <a target="_blank" href="/663.html " style="">帐号与密码说明</a> | <a target="_blank" href="https://18027314370.udesk.cn/im_client/?web_plugin_id=46705&cur_title=%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%95%99%E5%B8%88%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0(%E5%B9%BF%E4%B8%9C%E4%BA%8C%E5%B8%88%E5%9C%A8%E7%BA%BF)%7C%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83&amp;src_url=&amp;cur_url=https%3A%2F%2Fjsglpt.gdedu.gov.cn%2Fteacher%2Findex.do&amp;pre_url=https%3A%2F%2Fjsglpt.gdedu.gov.cn%2Fteacher%2Findex.do" style="">客服</a> | <a target="_blank" href="https://18027314370.udesk.cn/im_client/feedback.html?留言web_plugin_id=46705&amp;cur_title=%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%95%99%E5%B8%88%E7%BB%A7%E7%BB%AD%E6%95%99%E8%82%B2%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0(%E5%B9%BF%E4%B8%9C%E4%BA%8C%E5%B8%88%E5%9C%A8%E7%BA%BF)%7C%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83&amp;src_url=&amp;cur_url=https%3A%2F%2Fjsglpt.gdedu.gov.cn%2Fteacher%2Findex.do&amp;pre_url=https%3A%2F%2Fjsglpt.gdedu.gov.cn%2Fteacher%2Findex.do&amp;free=noAgent&amp;deep=deep&amp;udesk_access_token=365de45c-f365-48c0-b55b-83b09b6b1989&amp;udesk_customer_id=2365175172" style="">留言</a>）<br><br>
+
+广东省卫生健康行业学习平台网址：<a target="_blank" href="https://www.91huayi.com" style="">https://www.91huayi.com</a><br>
+咨询电话： 020-38914613（华医网）<br><br>
+
+<strong>4️⃣ 教师资格证书定期注册学时要求</strong><br>
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;">
+
+连续五年，每年累计应不少于90学时，其中公需课不少于30学时，专业课不少于42学时，选修课不少于18学时。<br>
+
+<style type="text/css">
+.layui-col-space15>* {
+    padding: 7.5px;
+}
+.layui-col-space15 {
+    margin: -7.5px;
+}
+.zhiche {
+    border: 2px dashed #cdc8c8;
+}
+@media screen and (min-width: 992px){
+.layui-col-md6 {
+    width: 50%;
+	float: left;
+position: relative;
+    display: block;
+    box-sizing: border-box;
+}
+.zhiche {
+      width: 100%;
+      height: auto;
+    border: 2px dashed #cdc8c8;
+}
+}
+@media screen and (max-width:650px){
+.zhiche {
+      height: auto;
+      width: 100%;
+      }
+}
+</style>
+
+<div class="layui-bg-gray" style="padding: 10px 0px;">
+  <div class="layui-row layui-col-space15">
+    <div class="layui-col-md6">
+<a href="/assets/file/2023/03/2023032702.webp" data-fancybox="gallery"><img src="/assets/file/2023/03/2023032702.webp" class="zhiche"></a>
+    <div id="extwaiokist" style="display:none" v="fifea" q="c142e208" c="53.02" i="60" u="6.442" s="05022301" sg="svr_undefined-ga_05022301-bai_04242318" d="1" w="false" e="" a="2" m="BMe=" vn="9zsim"><div id="extwaigglbit" style="display:none" v="fifea" q="c142e208" c="53.02" i="60" u="6.442" s="05022301" sg="svr_undefined-ga_05022301-bai_04242318" d="1" w="false" e="" a="2" m="BMe="></div></div></div>
+    <div class="layui-col-md6">
+<a href="/assets/file/2023/03/2023032701.webp" data-fancybox="gallery"><img src="/assets/file/2023/03/2023032701.webp" class="zhiche"></a>
+    </div>
+  </div> 
+</div>
+
+<strong>5️⃣ 学习结果</strong><br>
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;">
+
+<a href="/assets/file/2023/05/2023050801.webp" data-fancybox="gallery"><img src="/assets/file/2023/05/2023050801.webp" class="zhiche" style="width: 100%;height: auto;"></a>
+<a href="/assets/file/2023/05/2023050805.webp" data-fancybox="gallery"><img src="/assets/file/2023/05/2023050805.webp" class="zhiche" style="width: 100%;height: auto;"></a>
+<a href="/assets/file/2023/05/2023050802.webp" data-fancybox="gallery"><img src="/assets/file/2023/05/2023050802.webp" class="zhiche" style="width: 100%;height: auto;"></a>
+<a href="/assets/file/2023/05/2023050803.webp" data-fancybox="gallery"><img src="/assets/file/2023/05/2023050803.webp" class="zhiche" style="width: 100%;height: auto;"></a><br>
+
+<strong>6️⃣ 考核答案</strong><br>
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;">
+
+<script language="JavaScript" type="text/JavaScript">
+function showdiv(targetid,objN){
+   
+      var target=document.getElementById(targetid);
+      var clicktext=document.getElementById(objN)
+
+            if (target.style.display=="block"){
+                target.style.display="none";
+  
+
+            } else {
+                target.style.display="block";
             }
+   
+}
+</script>
+<h1 style="padding: 0.5em 0 0.5em 0.7em;cursor: pointer;font-weight: 500;text-align: left;font-size: 18px;" type="button" value="showDiv1" id="showtext" onclick="showdiv('contentid','showtext')">💠新质生产力与高质量发展</h1>
+            <div id="contentid" style="display: none;padding: 0em 1em;">
+B，A，D，B，B，A，<br>
+C，D，A，A，B，A，<br>
+ABC，AB，ABC，ABC，ABC，<br>
+ABC，ABCDE，ABCDE，B，B，<br>
+A，A，A，B，B，A，A，B<br>
+    </div>
 
-            // 计算天数差
-            const days = Math.floor(remainingMilliseconds / (1000 * 60 * 60 * 24));
-            remainingMilliseconds %= (1000 * 60 * 60 * 24);
+<h1 style="padding: 0.5em 0 0.5em 0.7em;cursor: pointer;font-weight: 500;text-align: left;font-size: 18px;" type="button" value="showDiv0" id="showtext2" onclick="showdiv('contentid2','showtext2')">💠百县千镇万村高质量发展工程与城乡区域协调发展</h1>
+            <div id="contentid2" style="display: none;padding: 0em 1em;">
 
-            // 计算小时差
-            const hours = Math.floor(remainingMilliseconds / (1000 * 60 * 60));
-            remainingMilliseconds %= (1000 * 60 * 60);
+C，A，C，B，A，B，<br>
+D，C，D，D，ABC，ABD，<br>
+ABC，ABC，ABCD，ABCDE，<br>
+ABCDE，ABCD，ABC，A，A，<br>
+B，A，A，A，B，B，A，A<br>
+    </div>
 
-            // 计算分钟差
-            const minutes = Math.floor(remainingMilliseconds / (1000 * 60));
-            remainingMilliseconds %= (1000 * 60);
+<strong>7️⃣ 学时查询、证书打印</strong><br>
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;">
 
-            // 计算秒数差
-            const seconds = Math.floor(remainingMilliseconds / 1000);
+查询学时（专业课、选修课、公需课）：<a target="_blank" href="https://jsglpt.gdedu.gov.cn/login.jsp">省教师继教平台=广东省教师继续教育信息管理平台</a><br>
 
-            return {
-                years,
-                months,
-                days,
-                hours,
-                minutes,
-                seconds
-            };
-        }
+<a href="/assets/file/2022/05/202205171.webp" data-fancybox="gallery" data-caption="" style=""><img src="/assets/file/2022/05/202205171.webp" style="max-width:100%;display: none;"></a><br>
 
-        function updateClock(elementId, startDateStr) {
-            const startDate = new Date(startDateStr);
-            startDate.setTime(startDate.getTime() + 8 * 60 * 60 * 1000); // 转换为北京时间
+查询学时（专业课、选修课、公需课）、打印继续教育证书：<a target="_blank" href="https://ggfw.hrss.gd.gov.cn/isso/login.html?service=https%3A%2F%2Fggfw.hrss.gd.gov.cn%2Fzjjyweb%2Fuser%2Findex.do">广东省人力资源和社会保障厅网上服务平台</a><br>
+注：专技网平台=广东省专业技术人员继续教育管理系统<br>
 
-            function updateTimeDisplay2() {
-                const endDate = new Date();
-                endDate.setTime(endDate.getTime() + 8 * 60 * 60 * 1000); // 转换为北京时间
+<a href="/assets/file/2023/10/20231101.webp" data-fancybox="gallery" data-caption="" style=""><img src="/assets/file/2023/10/20231101.webp" style="max-width:100%;display: none;"></a><br>
 
-                const { years, months, days, hours, minutes, seconds } = calculateTimeDifference(startDate, endDate);
+<a target="_blank" href="https://ggfw.hrss.gd.gov.cn/zjjyweb/hisInfoCK/to.do">打印专业技术人员继续教育证书</a><br>
+<a href="/assets/file/2022/10/20221022.webp" data-fancybox="gallery" data-caption="" style=""><img src="/assets/file/2022/10/20221022.webp" style="max-width:100%;"></a>
 
-                document.getElementById(elementId).innerHTML = `${years}年${months}月${days}天${hours}时${minutes}分${seconds}秒`;
-            }
+<strong>8️⃣ 公需课代挂说明</strong><br>
 
-            // 每隔1秒更新一次时间差显示
-            setInterval(updateTimeDisplay2, 1000);
-        }
+<hr style="border:none;border-top: 2px dotted #0003;margin-top: 0px;">
 
-        updateClock("txClock", "2001-09-01T00:00:00");
-    </script>
+<p>1、我这边都是通过真实浏览器进行网课代挂，一般都是 1 倍速进行播放（特殊要求除外）。可以保证学习记录不异常，学时正常记录。</p>
 
-<a href="/assets/file/2024/11/20241105.webp" data-fancybox="gallery" data-caption="" style=""><img src="/assets/file/2024/11/20241105.webp"></a></div>
+<p>2、我崇尚的理念是：一次合作，终身合作。有代挂需求的人基本上都是体系内的公职人员，年年都要学网课，最害怕学习出现问题（如倍速/秒过后学时异常被通报批评，无法获取本年度学分等），我这边都是真实浏览器代挂，不倍速，不秒过，积累老客户，做回头客生意。</p>
+
+<p>3、收费标准：每位20元。</p>
+
+<p>4、需要帮忙的老师可以在赞赏码留言栏填写帐号与密码。</p>
+
+<center><a href="/assets/file/2023/04/2023040701.webp" data-fancybox="gallery"><img src="/assets/file/2023/04/2023040701.webp" style="width: 200px;"></a></center></div>
 <div class="readall_box">
           <div class="read_more_mask"></div>
           <a class="read_more_btn" target="_self">阅读全文 <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 18px; color: #ca0c16;vertical-align:middle;"></i></a>
       </div>
-<p class="time clb">荣誉证书 2024-11-05 08:11:56 通过 网页 <i class="iconfont icon-view"></i> 浏览(614) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+<p class="time clb">继续教育 2020-04-18 20:10:24 通过 网页 <i class="iconfont icon-view"></i> 浏览(6811793) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div></div>  
 <!-- 上一篇 下一篇开始 -->
@@ -696,28 +767,118 @@ document.body.addEventListener('input', POWERMODE);
 <p style="color: #999;"><i class="fa fa-angle-left em12" style="color: #d0d0d0;"></i>
 <i class="fa fa-angle-left em12 mr6" style="margin-right: 6px;color: #d0d0d0;"></i>
 上一篇</p>
-<a class="pre" href="/b7/984.html"><div style="height: 3.2em;overflow: hidden;">禁用这18个系统服务，快速提升windows11系统性能！</div></a></div>
+<a class="pre" href="/b8/586.html"><div style="height: 3.2em;overflow: hidden;">上一篇文章</div></a></div>
 
 <div id="predown">
 <p style="color: #999;">下一篇
 <i class="fa fa-angle-right em12 ml6" style="margin-left: 6px;color: #d0d0d0;"></i>
 <i class="fa fa-angle-right em12" style="color: #d0d0d0;"></i></p>
-<a class="next" href="/b7/987.html"><div style="height: 3.2em;overflow: hidden;">下一篇文章</div></a></div>
+<a class="next" href="/b6/589.html"><div style="height: 3.2em;overflow: hidden;">下一篇文章</div></a></div>
 </div>
 <!-- 上一篇 下一篇 结束-->
    <div id="comments">
-   <h3>共有1条评论！</h3>
+   <h3>共有10条评论！</h3>
         <ol class="comment_list">
-               </ol>
+        		<li class="comlist" id="Com-8">
+		<div id="Ctext-8" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2021-07-16 17:24:03</span>
+		<span class="reply"><em>1#</em> </span>
+		</div>
+		<p>谢谢您的答案！</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-10">
+		<div id="Ctext-10" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2021-08-03 11:00:37</span>
+		<span class="reply"><em>2#</em> </span>
+		</div>
+		<p>谢谢您的答案，辛苦了！</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-11">
+		<div id="Ctext-11" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2021-08-10 20:45:45</span>
+		<span class="reply"><em>3#</em> </span>
+		</div>
+		<p>谢谢您的答案，辛苦了！</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-12">
+		<div id="Ctext-12" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2022-05-27 17:06:44</span>
+		<span class="reply"><em>4#</em> </span>
+		</div>
+		<p>专业课和选修课在德诚选择吗？</p>
+		<p class="re">&nbsp;&nbsp;<strong style="color:#C00">林继回复</strong>：<span>在德诚平台可以报名学习专业课和选修课。只是第一批学习已经在4月底终止，不知道第二批什么时候开始报名学习。<br><a href="/assets/file/2022/05/2022052801.webp" data-fancybox="gallery" data-caption=""><img src="/assets/file/2022/05/2022052801.webp" style="max-width:100%;"></a></span></p>		</div>
+		</li>
+       		<li class="comlist" id="Com-13">
+		<div id="Ctext-13" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2022-05-31 01:47:02</span>
+		<span class="reply"><em>5#</em> </span>
+		</div>
+		<p>谢谢亲贡献的答案</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-15">
+		<div id="Ctext-15" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2022-07-06 22:47:36</span>
+		<span class="reply"><em>6#</em> </span>
+		</div>
+		<p>感谢您的答案！</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-24">
+		<div id="Ctext-24" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2023-08-28 09:17:16</span>
+		<span class="reply"><em>7#</em> </span>
+		</div>
+		<p>谢谢你的答案</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-30">
+		<div id="Ctext-30" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2024-05-14 16:40:13</span>
+		<span class="reply"><em>8#</em> </span>
+		</div>
+		<p>谢谢你的答案</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-31">
+		<div id="Ctext-31" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2024-05-18 09:43:30</span>
+		<span class="reply"><em>9#</em> </span>
+		</div>
+		<p>谢谢你的答案</p>
+				</div>
+		</li>
+       		<li class="comlist" id="Com-32">
+		<div id="Ctext-32" class="comment">
+		<div class="comment_meta">
+		<cite><a rel="external nofollow">匿名网友</a></cite> <span class="time">2024-05-29 08:05:38</span>
+		<span class="reply"><em>10#</em> </span>
+		</div>
+		<p>谢谢您的答案</p>
+				</div>
+		</li>
+              </ol>
 	   <div id="respond" class="comment-respond">
 		<h3 id="reply-title" class="comment-reply-title">发表评论</h3>
  <form id="formpl">
 <div class="s_e mt10"><textarea tabindex="1" placeholder="发言要文明，评论有水平..." name="pcontent" rows="3" id="pcontent" class="input_textarea"></textarea></div>
 <div id="pl_other" class="hide"><div class="s_e"><input name="pname" tabindex="2" placeholder="昵称(选填)" id="pname" type="text" class="input_narrow" value="" maxlength="10" /></div>
 <div class="s_e"><input name="pmail" tabindex="2" placeholder="邮箱(选填)" id="pmail" type="email" class="input_narrow" value="" maxlength="30" /></div>
-<div class="s_e"><input name="purl" tabindex="3" placeholder="网址(选填)" id="purl" type="url" class="input_narrow" value="" maxlength="50" /><input type="hidden" id="tid" name="tid" value="1"></div>
+<div class="s_e"><input name="purl" tabindex="3" placeholder="网址(选填)" id="purl" type="url" class="input_narrow" value="" maxlength="50" /><input type="hidden" id="tid" name="tid" value="2"></div>
 </div>
-	 	 <div class="s_e"><button type="button" onClick="addpl('985','0')" id="add" class="btn"> 提 交 </button> <button type="button" onClick="history.back();" id="bck" class="btn"> 返 回 </button><span id="errmsg"></span></div>
+	 	 <div class="s_e"><button type="button" onClick="addpl('587','0')" id="add" class="btn"> 提 交 </button> <button type="button" onClick="history.back();" id="bck" class="btn"> 返 回 </button><span id="errmsg"></span></div>
      </form></div>	
         </div>	
     </div>
